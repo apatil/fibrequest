@@ -1,0 +1,14 @@
+{
+  "name": "fibrequest",
+  "version": "0.0.1",
+  "description": "Simple fibrous-friendly wrapper for request.js",
+  "author": "Anand Patil",
+  "private": false,
+  "dependencies": {
+    "request": "~2.34.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apatil/fibrequest.git"
+  }
+}
