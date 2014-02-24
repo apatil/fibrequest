@@ -1,7 +1,7 @@
 {
   "name": "fibrequest",
   "version": "0.0.1",
-  "description": "Simple fibrous-friendly wrapper for request.js",
+  "description": "Simple fibrous-friendly wrapper for mikeal/request",
   "author": "Anand Patil",
   "private": false,
   "dependencies": {
