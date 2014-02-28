@@ -1,5 +1,5 @@
 var request = require('request')
-module.exports = function(opts, cb) {
+module.exports = exports = function(opts, cb) {
   request.get(opts, function(err, resp, body) {
     if (err) {
       cb(err);
@@ -7,4 +7,4 @@ module.exports = function(opts, cb) {
       cb(null, {resp: resp, body: body});
     }
   });
-}
+};
