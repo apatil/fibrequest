@@ -9,7 +9,7 @@
   "author": "Anand Patil",
   "private": false,
   "dependencies": {
-    "request": "~2.36.1"
+    "request": "^2.36.0"
   },
   "main": "fibrequest.js",
   "repository": {
