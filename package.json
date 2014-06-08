@@ -4,12 +4,12 @@
     "request",
     "fibrous"
   ],
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple fibrous-friendly wrapper for mikeal/request",
   "author": "Anand Patil",
   "private": false,
   "dependencies": {
-    "request": "~2.34.1"
+    "request": "~2.36.1"
   },
   "main": "fibrequest.js",
   "repository": {
