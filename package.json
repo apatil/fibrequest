@@ -4,7 +4,7 @@
     "request",
     "fibrous"
   ],
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Simple fibrous-friendly wrapper for mikeal/request",
   "author": "Anand Patil",
   "private": false,
